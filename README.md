@@ -8,7 +8,7 @@ There should be no sensitive data in the source code, but if there is, please le
 
 The code is provided as-is and has not been maintained for 8 months and **will** be incompatible with latest IDEs.
 
-Version 1 of the app is only compatibile with Eclipse, where as version 2 was built using Android Studio version 0.4 and Gradle 0.9.
+Version 1 of the app is only compatible with Eclipse, where as version 2 was built using Android Studio version 0.4 and Gradle 0.9.
 
 You **may not** fork the project, rename and sell it as-is. Please don't do this, I put nearly 2 years worth of work into it, at least improve on it, and if you do wish to sell an app based on this code, please think of me and maybe give me something in return.
 
@@ -38,6 +38,6 @@ As with the GPL, you may use the code for commercial use, but dont just fork the
 
 If we meet some day, and you find this stuff is worth it, you can buy me a beer in return.
 
-##Warrenty
+##Warranty
 
-The code is provided as-is without warrenty. Use and execute at your own risk, please do not contact me about problems.
+The code is provided as-is without warranty. Use and execute at your own risk, please do not contact me about problems.
