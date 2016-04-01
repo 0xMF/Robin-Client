@@ -7,6 +7,7 @@ needs to be done, and what has been done already.
 - [ ] decide whether updating to latest api is too big a deal or what
 - [x] correct typos in README.md
 
+- [x] v2 app will be updated first, since it would easier to get into
 
 <!--- 
 vim: spell:ft=markdown:tw=72:nonu 
